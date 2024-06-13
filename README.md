@@ -47,4 +47,8 @@ If everything is set up _correctly_, you should see your new app running in your
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
 ### Screenshots
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+![ss1](https://github.com/neilanthonyte/hrms-demo/assets/99723639/f9d4d8dc-55cb-4cc8-9fd1-08383f27dd37)
+![ss2](https://github.com/neilanthonyte/hrms-demo/assets/99723639/804cbfc1-2d66-4b31-82c0-e5706e5cbeeb)
+![ss3](https://github.com/neilanthonyte/hrms-demo/assets/99723639/8f1c7896-a03e-4949-8d14-ebb6d17ee53e)
+![ss4](https://github.com/neilanthonyte/hrms-demo/assets/99723639/31fe07f3-b272-4bd5-8148-03f5d6e3b96b)
+
